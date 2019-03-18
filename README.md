@@ -15,4 +15,4 @@ It is your job to predict the sales price for each house. For each Id in the tes
 Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
 
 
-For more details, check <a src='https://www.kaggle.com/c/house-prices-advanced-regression-techniques'>here</a>
+For more details, check https://www.kaggle.com/c/house-prices-advanced-regression-techniques
